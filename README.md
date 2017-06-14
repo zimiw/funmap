@@ -1,0 +1,2 @@
+# funmap
+just for fun
