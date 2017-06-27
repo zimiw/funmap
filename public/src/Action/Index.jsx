@@ -4,6 +4,7 @@ export default (_ID) => {
         'signinSuccess', //登录成功
         'signin', //退出登录
         'setState' //设置状态
+
     ];
 
     for (let i = 0; i < arr.length; i++) {

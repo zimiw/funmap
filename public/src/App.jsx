@@ -1,8 +1,8 @@
 import React, { Component, PropTypes } from 'react';
 import ReactDOM, { render } from 'react-dom';
 import { Provider } from 'react-redux';
-import route from './Config/Route'; //路由配置
-import store from './Config/Store';
+import route from '/router/Index'; //路由配置
+import store from '/Store/Index';
 
 
 import 'normalize.css'; //重置浏览器默认样式

@@ -18,7 +18,6 @@ const User = (state = JSON.parse(Tool.localItem('User')), action) => {
         default:
             return state;
     }
-
 }
 
 
